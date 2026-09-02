@@ -1,10 +1,10 @@
 ---
 course_number: 2
-course_code: "COMM XXXX"
-course_title: "Course Title 2"
-meeting_time: "TR 9:30–10:45 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "COMM 4714"
+course_title: "Communication Senior Seminar"
+meeting_time: "MW 2:30-3:45pm"
+location: "McBryde 233"
+instructor_name: "Carlos Evia Puerto"
 instructor_title: "Associate Professor"
 instructor_department: "Department Name"
 ---
