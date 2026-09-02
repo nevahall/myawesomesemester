@@ -1,10 +1,10 @@
 ---
 course_number: 1
-course_code: "COMM XXXX"
-course_title: "Course Title 1"
-meeting_time: "MWF 10:10–11:00 AM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_code: "CMST 2034"
+course_title: "Visual Media"
+meeting_time: "TR 3:30-4:45pm"
+location: "Shanks 160"
+instructor_name: "Carrie C. Spiller "
 instructor_title: "Assistant Professor"
 instructor_department: "Department Name"
 ---
