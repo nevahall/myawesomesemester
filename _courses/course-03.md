@@ -1,12 +1,12 @@
 ---
 course_number: 3
 course_code: "COMM XXXX"
-course_title: "Course Title 3"
-meeting_time: "MWF 1:25–2:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
+course_title: "Intro to Comm Research "
+meeting_time: "TR 9:30-10:45am"
+location: "Whittemore Hall 349"
+instructor_name: "Chelsea Woods"
 instructor_title: "Professor"
-instructor_department: "Department Name"
+instructor_department: "Communication "
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
