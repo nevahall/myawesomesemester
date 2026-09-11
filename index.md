@@ -4,7 +4,5 @@ title: Home
 ---
 
 <div class="home-intro">
-<p>Welcome! This is a template for a "My Awesome Semester" course-and-teacher site. Replace this
-introduction with your own &mdash; a couple of sentences about your major, this semester, and what
-your friends and family are about to learn about your professors.</p>
+<p>Welcome to my semester! I'm a Communication student at Virginia Tech. This website gives my friends and family a look at the courses I'm taking, what I'm learning and the professors teaching me.</p>
 </div>
