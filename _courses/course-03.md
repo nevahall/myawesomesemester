@@ -1,6 +1,6 @@
 ---
 course_number: 3
-course_code: "COMM XXXX"
+course_code: "COMM 2124"
 course_title: "Intro to Comm Research "
 meeting_time: "TR 9:30-10:45am"
 location: "Whittemore Hall 349"
