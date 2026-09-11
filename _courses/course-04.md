@@ -1,12 +1,12 @@
 ---
 course_number: 4
-course_code: "COMM XXXX"
-course_title: "Course Title 4"
-meeting_time: "TR 2:00–3:15 PM"
-location: "Building Room ###"
-instructor_name: "Professor Name"
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+course_code: "JMC 4264"
+course_title: "Social Media Theory and Practice"
+meeting_time: "TR 4:00-5:15PM"
+location: "Williams Hall 134"
+instructor_name: "Justin Combs"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
