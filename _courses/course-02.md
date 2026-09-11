@@ -5,8 +5,8 @@ course_title: "Communication Senior Seminar"
 meeting_time: "MW 2:30-3:45pm"
 location: "McBryde 233"
 instructor_name: "Carlos Evia Puerto"
-instructor_title: "Associate Professor"
-instructor_department: "Department Name"
+instructor_title: "Professor"
+instructor_department: "Communications"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
