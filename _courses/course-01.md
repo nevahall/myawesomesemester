@@ -5,8 +5,8 @@ course_title: "Visual Media"
 meeting_time: "TR 3:30-4:45pm"
 location: "Shanks 160"
 instructor_name: "Carrie C. Spiller "
-instructor_title: "Assistant Professor"
-instructor_department: "Department Name"
+instructor_title: "Professor"
+instructor_department: "Communication"
 ---
 
 _This is a placeholder page. Replace the front matter above with this course's real
